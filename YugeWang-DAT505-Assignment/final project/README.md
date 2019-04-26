@@ -1,3 +1,7 @@
+Yuge Wang
+
+B161006090
+
 
 This project is about a tunnel with no end. At first I wanted to make a tunnel with material to give people a feeling of moving forward. It is a pity that I didn't succeed in putting a material map on the tunnel.
 
